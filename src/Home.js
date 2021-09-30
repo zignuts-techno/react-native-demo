@@ -28,9 +28,9 @@ import * as ImagePicker from 'expo-image-picker';
   const options = {
     keyPrefix: "images/",
     bucket: "zignuts-shared",
-    region: "ap-south-1",
-    accessKey: "AKIAVVFZXDNNTOW2YVAY",
-    secretKey: "NUsHH/K9yt3ZadG/DmB00BJyV0IFm3l4Zk9rK+Wk",
+    region: "",//Replace with account region
+    accessKey: "", //Replace with youar account accessKey
+    secretKey: "",//Replace with youar account secretKey
     successActionStatus: 201
   }
 
