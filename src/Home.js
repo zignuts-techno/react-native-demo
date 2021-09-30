@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { FlatList, Text, View, Image, Button, StyleSheet, ActivityIndicator, Alert , SectionList} from 'react-native';
+import { FlatList, View, Image, Button, StyleSheet, ActivityIndicator, Alert } from 'react-native';
 import { RNS3 } from 'react-native-aws3';
 import * as ImagePicker from 'expo-image-picker';
 
